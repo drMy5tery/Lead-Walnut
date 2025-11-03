@@ -3,7 +3,7 @@
 ## 1. Project Overview
 This project is an end-to-end machine learning pipeline that analyzes web content for SEO quality. It parses raw HTML, extracts NLP features (like readability and word count), detects near-duplicate content using TF-IDF and cosine similarity, and trains a classification model to score content quality. [cite_start]The project includes a mandatory Jupyter Notebook for the core analysis and an optional bonus Streamlit app for real-time, interactive analysis [cite: 7, 13, 16-21].
 
-## 2. 🚀 Deployed Streamlit App
+## 2. Deployed Streamlit App
 For a live demonstration, the real-time analysis tool is deployed on Streamlit Cloud:
 
 **[https://seo-content-detector-2448540.streamlit.app/](https://seo-content-detector-2448540.streamlit.app/)**
