@@ -6,3 +6,4 @@ textstat
 requests
 lxml
 html5lib
+streamlit
